@@ -1,0 +1,453 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    overflow-x:hidden;
+}
+header{
+    position: fixed;
+    background-color: white;
+    z-index: 10;
+    
+}
+header
+{
+    width: 100%    
+}
+.navber
+{
+    position: fixed;
+    background-color: white;
+    z-index: 10;
+}
+
+.nav1
+{
+    display: flex;
+    
+
+
+
+}
+.d > img  
+{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 417px;
+
+}
+.d2 > h6
+{
+    position: relative;
+    bottom: -4px;
+    left: 418px;
+}
+.d3 > button
+{
+    position: relative;
+    left: 431px;
+     background-color: black;
+     color: white;
+     border: none;
+     border-radius: 10px;
+}
+.nav2
+{
+    display: flex;
+    padding: 20px 20px;
+
+}
+.e > img
+{
+    width: 65px;
+    position: relative;
+    left: 98px;
+}
+.e1
+{
+    position: relative;
+    left: 152px;
+}
+.e2
+{
+    position: relative;
+    left: 204px;
+}
+.e3 > img
+{
+    position: relative;
+    left: 729px;
+    width: 16px;
+}
+.e4
+{
+    font-weight: bold;
+    position: relative;
+    left: 747px;
+}
+.e5
+{
+    font-weight: bold;
+    position: relative;
+    left: 771px;
+}
+.e6 > img
+{
+    width: 29px;
+     position: relative;
+    left: 776px;
+}
+.c
+{   
+    padding-top: 167px;
+    display: flex;
+
+    
+}
+.c1
+{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding: 20px 20px;
+}
+.c2 {
+    background-color: black;
+}
+.c2 > button
+{
+    background-color: red;
+    color: white;
+    position: relative;
+    right: 360px;
+    width: 121px;
+    top: 16px;
+    height: 29px;
+    border: none;
+    border-radius: 10px;
+}
+.b 
+{
+    background-color: #f8f9fa;
+    padding: 52px;
+}
+.b1 > img 
+{
+    width: 43px;
+    position: relative;
+    left: 96px;
+    bottom: 51px;
+}
+.b2
+{ 
+    font-family: system-ui;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: bold;
+    position: relative;
+    left: 102px;
+    bottom: 30px;
+}
+.f 
+{
+    font-size: 30px;
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: 118px;
+    top: 38px;
+}
+.g 
+{
+    display: flex;
+    justify-content: space-around;
+}
+.g1 > img
+{
+    position: relative;
+    width: 230px;
+    height: 167px;
+    right: -186px;
+    top: 132px;
+}
+.n1 
+{
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: 11px;
+    top: 301px;
+}
+
+.g2 > img 
+{
+    position: relative;
+    width: 227px;
+    height: 167px;
+    right: -108px;
+    top: 131px;
+}
+.n2
+{
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: -79px;
+    top: 297px;
+
+}
+.g3 > img 
+{
+    position: relative;
+    width: 227px;
+    height: 166px;
+    right: -27px;
+    top: 129px;
+}
+.n3
+{
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: -132px;
+    top: 297px;
+
+}
+
+.g4 > img 
+{
+    position: relative;
+    width: 227px;
+    height: 167px;
+    right: 23px;
+    top: 128px;
+}
+.n4
+{
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: -210px;
+    top: 298px;
+}
+.h 
+{
+    display: flex;
+    justify-content: space-around;
+}
+.h1 > img 
+{
+    position: relative;
+    width: 236px;
+    height: 250px;
+    right: -137px;
+    top: 191px;
+}
+.h2 > img
+{
+    position: relative;
+    width: 221px;
+    height: 255px;
+    right: -79px;
+    top: 187px;
+}
+.h3 > img 
+{
+    position: relative;
+    width: 221px;
+    height: 247px;
+    right: -11px;
+    top: 187px;
+
+}
+.h4 > img 
+{
+    position: relative;
+    width: 229px;
+    height: 259px;
+    right: 59px;
+    top: 180px;
+}
+.i 
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 10%;
+    position: relative;
+    top: 285px
+    
+}
+.i1 > img 
+{ 
+    position: relative;
+    width: 71px;
+    height: 33px;
+    right: 403px;
+    bottom: 126px
+}
+.j 
+{
+    display: flex;
+    justify-content: space-around;
+}
+.j1 > h4
+{     
+    font-size: 25px;
+    top: 120px;
+    color: white;
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    right: 300px
+    
+   
+}
+.j2 > h5 
+{
+    color: white;
+    font-family: system-ui;
+    font-weight: bold;
+    position: relative;
+    left: 1046px;
+    top: 95px;   
+}
+.k
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 40% 0 0 0;
+}
+.k1 > img 
+{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    right: 30px;
+    bottom: 223px;
+}
+.k2 > img
+{
+    width: 250px;
+    height: 301px;
+    position: relative;
+    right: 10px;
+    bottom: 224px;
+}
+.k3 > img 
+{
+    width: 251px;
+    height: 301px;
+    position: relative;
+    right: -12px;
+    bottom: 223px;
+}
+.m
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding-bottom: 40px;
+}
+.notes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}  
+.notes > ul{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.m1 > img{
+    width: 48px;
+    padding-bottom: 111px;
+    position: relative;
+    left: 45px;
+}
+.p > img 
+{
+    right: 56px;
+    width: 13px;
+    padding-bottom: 144px;
+    position: relative;
+}
+.v 
+{
+    font-size: small;
+    color: white;
+    position: relative;
+    bottom: 74px;
+    right: 132px;
+    
+}
+.v1 > img 
+{
+    position: relative;
+    bottom: 70px;
+    right: 163px;
+    width: 68px;
+
+}
+.v2 > img 
+{
+    position: relative;
+    width: 50px;
+    right: 201px;
+    bottom: 71px;
+}
+.end
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-family: math;
+}
+.end0 
+{
+    position: relative;
+    left: 295px;
+    bottom: 10px;
+}
+
+.end1 > img
+{
+    width: 22px;
+    position: relative;
+    bottom: 10px;
+    left: 311px;
+}
+.end2 > img
+{
+    width: 20px;
+    position: relative;
+    left: 105px;
+    bottom: 10px;
+}
+.end3  > img
+{
+    width: 20px;
+    position: relative;
+    right: 99px;
+    bottom: 10px;
+}
